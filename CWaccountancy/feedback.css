@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+a:link, a:visited {
+	color: #848379;
+	text-decoration: none;
+}
+a:hover, a:active, a:focus {
+	text-decoration: ;
+}
+
+.container {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	padding: 15px 0 0 10px;
+}
+
+.fundsubmn1a {
+}
+
+.fundsubmn1b {
+}
